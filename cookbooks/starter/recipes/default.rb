@@ -1,5 +1,5 @@
 # This is a Chef recipe file. It can be used to specify resources which will
-# apply configuration to a server.
+# Apply configuration to a server. Testing chef.
 
 log "Welcome to Chef, #{node["starter_name"]}!" do
   level :info
